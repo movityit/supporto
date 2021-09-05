@@ -10,7 +10,7 @@ title: "Centro di Supporto"
 email: mandi@movity.it
 description: "Siamo qui per aiutarti."
 baseurl: ""
-back:url: "https://movity.it"
+back_url: "https://movity.it"
 url: "https://supporto.movity.it"
 twitter_username: "movityit"
 github_username:  "movityit"
