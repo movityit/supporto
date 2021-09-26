@@ -9,9 +9,9 @@
 title: "Centro di Supporto"
 email: mandi@movity.it
 description: "Siamo qui per aiutarti."
-baseurl: ""
+baseurl: "/supporto/"
 back_url: "https://movity.it"
-url: "https://movityit.github.io/supporto/"
+url: "https://movityit.github.io"
 twitter_username: "movityit"
 github_username:  "movityit"
 color_theme:  "#3CCDBA"
